@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Laptop",
+      "price": 100000,
+      "category": "Electronics",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/surface-laptop-16-9.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "504e",
+      "name": "aaliya khan",
+      "email": "aliyakhan123@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
